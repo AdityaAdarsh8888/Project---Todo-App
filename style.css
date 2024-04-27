@@ -94,7 +94,7 @@ h1 {
 }
 
 #task-list {
-    display: block; /* or inline-block */
+    display: block;
     width: 254px;
     word-wrap: break-word;
 }
